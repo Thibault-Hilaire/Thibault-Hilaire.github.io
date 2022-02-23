@@ -3,7 +3,7 @@
 
 # About
 
-I am a PhD student in LaBRI, Bordeaux, under the supervision of [Jérome Leroux](https://www.labri.fr/perso/leroux/) and [David Ilcinkas](https://www.labri.fr/perso/ilcinkas/). My thesis is about certification in Coq of distributed systems, but I am interested in everything related to automata, logics and verification.
+I am a PhD student in LaBRI, Bordeaux, under the supervision of [Jérome Leroux](https://www.labri.fr/perso/leroux/) and [David Ilcinkas](https://www.labri.fr/perso/ilcinkas/). My thesis is about Certification in Coq of Distributed Systems, but I am interested in everything related to automata, logics and verification.
 
 # Publications
 
