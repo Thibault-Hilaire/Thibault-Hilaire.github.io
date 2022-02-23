@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Thibault-Hilaire/Thibault-Hilaire.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a PhD student in LaBRI, Bordeaux, under the supervision of [Jérome Leroux](https://www.labri.fr/perso/leroux/) and [David Ilcinkas](https://www.labri.fr/perso/ilcinkas/). My thesis is about certification in Coq of distributed systems, but I am interested in everything related to automata, logics and verification.
 
-```markdown
-Syntax highlighted code block
+# Publications
 
-# Header 1
-## Header 2
-### Header 3
+None for the moment
 
-- Bulleted
-- List
+# Teaching
 
-1. Numbered
-2. List
+- [Logique et preuves](https://www.u-bordeaux.fr/formation/2021/PRLIIN_110/informatique/enseignement/FRUAI0333298FCOEN_2553/logique-et-preuve), Licence 3 Info, 2021/2022 
+- Projet technologique, Licence 1 Info, 2021/2022
 
-**Bold** and _Italic_ and `Code` text
+# Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thibault-Hilaire/Thibault-Hilaire.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Mail: firstname.lastname@labri.fr
+- Address : Office 257, LaBRI  
+351, Cours de la Libération, F-33405 Talence Cedex, France
