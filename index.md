@@ -12,7 +12,9 @@ None for the moment
 # Teaching
 
 - [Logique et preuves](https://www.u-bordeaux.fr/formation/2021/PRLIIN_110/informatique/enseignement/FRUAI0333298FCOEN_2553/logique-et-preuve), Licence 3 Info, 2021/2022 
+- [Logique et preuves](https://www.u-bordeaux.fr/formation/2021/PRLIIN_110/informatique/enseignement/FRUAI0333298FCOEN_2553/logique-et-preuve), Licence 3 Info, 2022/2023 
 - Projet technologique, Licence 1 Info, 2021/2022
+- [Complexité et Calculabilité (CoCa) ](https://www.labri.fr/perso/anca/MC.html), Master 1 Info, 2022/2023
 
 # Contact
 
