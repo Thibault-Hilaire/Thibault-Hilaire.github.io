@@ -5,6 +5,8 @@
 
 I am a PhD student in LaBRI, Bordeaux, under the supervision of [Jérome Leroux](https://www.labri.fr/perso/leroux/) and [David Ilcinkas](https://www.labri.fr/perso/ilcinkas/). My thesis is about Certification in [Coq](https://coq.inria.fr/) of Distributed Systems, but I am interested in everything related to automata, logics and verification.
 
+I did my scholarship at the [ENS Paris-Saclay](https://ens-paris-saclay.fr/) in the computer science department.
+
 # Publications
 
 None for the moment
