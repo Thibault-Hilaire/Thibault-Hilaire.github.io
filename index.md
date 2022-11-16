@@ -11,6 +11,10 @@ I did my scholarship at the [ENS Paris-Saclay](https://ens-paris-saclay.fr/) in 
 
 None for the moment
 
+# Talk
+
+I did a talk at the ANR BraVASS the 11 April 2022.
+
 # Teaching
 
 - [Logique et preuves](https://www.u-bordeaux.fr/formation/2021/PRLIIN_110/informatique/enseignement/FRUAI0333298FCOEN_2553/logique-et-preuve), Licence 3 Info, 2021/2022 
