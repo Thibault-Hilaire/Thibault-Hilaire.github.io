@@ -13,7 +13,7 @@ None for the moment
 
 # Talk
 
-I did a talk at the ANR BraVASS the 11 April 2022.
+I did a talk at the ANR BraVAS the 11 April 2022.
 
 # Teaching
 
