@@ -1,6 +1,4 @@
 theme: jekyll-theme-slate
 title: Thibault Hilaire
 description: LaBRI, Bordeaux 
-plugins:
-  - jekyll-pdf-embed
 
