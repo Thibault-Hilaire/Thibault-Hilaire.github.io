@@ -13,7 +13,7 @@ None for the moment
 
 # Talk
 
-I did a talk at the ANR BraVAS the 11 April 2022 <a href="/Talks/Presentation_BRAVASS.pdf">mypdf.</a>
+I did a talk at the ANR BraVAS the 11 April 2022 <a href="/Talks/Presentation_BRAVASS.pdf">pdf.</a>
 # Teaching
 
 - [Logique et preuves](https://www.u-bordeaux.fr/formation/2021/PRLIIN_110/informatique/enseignement/FRUAI0333298FCOEN_2553/logique-et-preuve), Licence 3 Info, 2021/2022 
