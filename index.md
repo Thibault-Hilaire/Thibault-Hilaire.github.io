@@ -4,6 +4,7 @@
 # About
 
 I am a PhD student in [LaBRI](https://www.labri.fr/), Bordeaux, under the supervision of [Jérome Leroux](https://www.labri.fr/perso/leroux/) and [David Ilcinkas](https://www.labri.fr/perso/ilcinkas/). My thesis is about Certification in [Coq](https://coq.inria.fr/) of Distributed Systems, but I am interested in everything related to automata, logics and verification.
+I am also a member of the [AFoDIB](https://afodib.labri.fr/) board.
 
 I did my scholarship at the [ENS Paris-Saclay](https://ens-paris-saclay.fr/) in the computer science department.
 
@@ -14,6 +15,17 @@ None for the moment
 # Talk
 
 I did a talk at the ANR BraVAS the 11 April 2022 <a href="/Talks/Presentation_BRAVASS.pdf">pdf.</a>
+
+# Missions
+
+I attended:
+- [Math Comp School & Workshop - 2022](https://mathcomp-schools.gitlabpages.inria.fr/2022-12-school/).
+-  a reunion of ANR BRAVAS the 11 April 2022
+-  a 3-days reunion of ANR ESTATE in March 2022
+-  a 3-day reunion of ANR Descartes in November 2021
+
+
+
 # Teaching
 
 - [Logique et preuves](https://www.u-bordeaux.fr/formation/2021/PRLIIN_110/informatique/enseignement/FRUAI0333298FCOEN_2553/logique-et-preuve), Licence 3 Info, 2021/2022 
