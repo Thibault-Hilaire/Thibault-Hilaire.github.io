@@ -36,5 +36,7 @@ I attended:
 # Contact
 
 - Mail: firstname.lastname@labri.fr
+- ORCID : 0009-0008-7324-8767
+- IdHal : thibault-luc-hilaire
 - Address : Office 257, LaBRI  
 351, Cours de la Libération, F-33405 Talence Cedex, France
