@@ -3,7 +3,7 @@
 
 # About
 
-I am a PhD student in [LaBRI](https://www.labri.fr/), Bordeaux, under the supervision of [Jérome Leroux](https://www.labri.fr/perso/leroux/) and [David Ilcinkas](https://www.labri.fr/perso/ilcinkas/). My thesis is about Certification in [Coq](https://coq.inria.fr/) of Distributed Systems, but I am interested in everything related to automata, logics and verification.
+I am a PhD student in [LaBRI](https://www.labri.fr/), Bordeaux, under the supervision of [Jérome Leroux](https://www.labri.fr/perso/leroux/) and [David Ilcinkas](https://www.labri.fr/perso/ilcinkas/). My thesis is about Certification in [Coq](https://coq.inria.fr/) of Petri Nets, but I am interested in everything related to automata, logics and verification.
 I am also a member of the [AFoDIB](https://afodib.labri.fr/) board.
 
 I did my scholarship at the [ENS Paris-Saclay](https://ens-paris-saclay.fr/) in the computer science department.
@@ -32,6 +32,11 @@ I attended:
 - Projet technologique, Licence 1 Info, 2021/2022
 - [Complexité et Calculabilité (CoCa) ](https://www.labri.fr/perso/anca/MC.html), Master 1 Info, 2022/2023
 - Initiation au développement logiciel, Licence 1 Info, 2022/2023
+
+# Interns
+- Clotilde Bizière (March 2023 - July 2023) with [Jérome Leroux](https://www.labri.fr/perso/leroux/) and [Grégoire Sutre](https://www.labri.fr/perso/sutre/)
+- Loïc Chevalier (June 2023 - July 2023) with [Jérome Leroux](https://www.labri.fr/perso/leroux/) and [David Ilcinkas](https://www.labri.fr/perso/ilcinkas/)
+
 
 # Contact
 
