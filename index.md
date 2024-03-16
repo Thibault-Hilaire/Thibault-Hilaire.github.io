@@ -28,7 +28,7 @@ I attended:
 
 # Teaching
 
-- [Logique et preuves](https://www.u-bordeaux.fr/formation/2021/PRLIIN_110/informatique/enseignement/FRUAI0333298FCOEN_2553/logique-et-preuve), Licence 3 Info, 2021/2022 and 2023/2024
+- [Logique et preuves](https://formations.u-bordeaux.fr/#/details-formation?type=enseignement&id=29564), Licence 3 Info, 2021/2022 and 2023/2024
 - Projet technologique, Licence 1 Info, 2021/2022
 - [Complexité et Calculabilité (CoCa) ](https://www.labri.fr/perso/anca/MC.html), Master 1 Info, 2022/2023
 - Initiation au développement logiciel, Licence 1 Info, 2022/2023
