@@ -14,8 +14,8 @@ A State-of-the-Art Karp-Miller Algorithm certified in Coq [doi: 10.1007/978-3-03
 
 # Talk
 
-I did a talk at the ANR BraVAS the 11 April 2022 <a href="/Talks/Presentation_BRAVASS.pdf">pdf.</a>
-I did a talk at TACAS 2024
+- I did a talk at the ANR BraVAS the 11 April 2022 <a href="/Talks/Presentation_BRAVASS.pdf">pdf.</a>
+- I did a talk at TACAS 2024
 
 # Missions
 
