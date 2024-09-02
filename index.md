@@ -10,19 +10,21 @@ I did my scholarship at the [ENS Paris-Saclay](https://ens-paris-saclay.fr/) in 
 
 # Publications
 
-A State-of-the-Art Karp-Miller Algorithm certified in Coq [doi: 10.1007/978-3-031-57246-3_21](https://doi.org/10.1007/978-3-031-57246-3_21)
+A State-of-the-Art Karp-Miller Algorithm certified in Coq [doi: 10.1007/978-3-031-57246-3_21](https://doi.org/10.1007/978-3-031-57246-3_21) (TACAS 2024)
 
 # Talk
 
 I did a talk at the ANR BraVAS the 11 April 2022 <a href="/Talks/Presentation_BRAVASS.pdf">pdf.</a>
+I did a talk at TACAS 2024
 
 # Missions
 
 I attended:
-- [Math Comp School & Workshop - 2022](https://mathcomp-schools.gitlabpages.inria.fr/2022-12-school/).
+- [Math Comp School & Workshop - 2022](https://mathcomp-schools.gitlabpages.inria.fr/2022-12-school/)
 -  a reunion of ANR BRAVAS the 11 April 2022
 -  a 3-days reunion of ANR ESTATE in March 2022
 -  a 3-day reunion of ANR Descartes in November 2021
+-  [AlgoTel/CoRes shadow PC 2024](https://shadowpc-rsd.cnrs.fr/) 
 
 
 
