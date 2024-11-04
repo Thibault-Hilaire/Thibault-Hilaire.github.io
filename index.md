@@ -20,11 +20,13 @@ A State-of-the-Art Karp-Miller Algorithm certified in Coq [doi: 10.1007/978-3-03
 # Missions
 
 I attended:
-- [Math Comp School & Workshop - 2022](https://mathcomp-schools.gitlabpages.inria.fr/2022-12-school/)
--  a reunion of ANR BRAVAS the 11 April 2022
--  a 3-days reunion of ANR ESTATE in March 2022
 -  a 3-day reunion of ANR Descartes in November 2021
--  [AlgoTel/CoRes shadow PC 2024](https://shadowpc-rsd.cnrs.fr/) 
+- [Math Comp School & Workshop - 2022](https://mathcomp-schools.gitlabpages.inria.fr/2022-12-school/)
+-  a 3-days reunion of ANR ESTATE in March 2022
+-  a reunion of ANR BRAVAS the 11 April 2022
+-  the conference [Highlights of Logic, Games and Automata](https://highlights-conference.org) in July 2023
+-  [AlgoTel/CoRes shadow PC 2024](https://shadowpc-rsd.cnrs.fr/)
+-  the conference [Highlights of Logic, Games and Automata](https://highlights-conference.org) in September 2024
 
 
 
