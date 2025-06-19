@@ -32,10 +32,23 @@ I attended:
 
 # Teaching
 
+At the University of Bordeaux :
 - [Logique et preuves](https://formations.u-bordeaux.fr/#/details-formation?type=enseignement&id=29564), Licence 3 Info, 2021/2022 and 2023/2024
 - Projet technologique, Licence 1 Info, 2021/2022
 - [Complexité et Calculabilité (CoCa) ](https://www.labri.fr/perso/anca/MC.html), Master 1 Info, 2022/2023
 - Initiation au développement logiciel, Licence 1 Info, 2022/2023
+At the [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr)
+- IF107 : Logique et preuve, niveau L3 (TD)
+- PG101 : Programmation Impérative 1, niveau L3 (TP)
+- PR103 : Projet d'algorithme et de programmation 1, niveau L3 (TP)
+- Spécification et preuve formelle de programmes, niveau M2 (TP cours intégré)
+- IF202 : Cryptologie, niveau M1 (TD/TP)
+- IF228 : Calculabilité et complexité, niveau M1 (TD)
+-  IT201 : Systèmes d'Exploitation, niveau M1 (TP)
+- RE100 : Introduction réseaux, niveau L3 (TD cours intégré)
+- Intelligence artificielle, niveau M1 (TD/TP)
+- PR106 : Projet d'algorithme et de programmation fonctionnelle, niveau L3 (TP)
+
 
 # Interns
 - Clotilde Bizière (March 2023 - July 2023) with [Jérome Leroux](https://www.labri.fr/perso/leroux/) and [Grégoire Sutre](https://www.labri.fr/perso/sutre/)
