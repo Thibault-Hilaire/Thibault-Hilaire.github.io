@@ -37,6 +37,7 @@ At the University of Bordeaux :
 - Projet technologique, Licence 1 Info, 2021/2022
 - [Complexité et Calculabilité (CoCa) ](https://www.labri.fr/perso/anca/MC.html), Master 1 Info, 2022/2023
 - Initiation au développement logiciel, Licence 1 Info, 2022/2023
+
 At the [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr)
 - IF107 : Logique et preuve, niveau L3 (TD)
 - PG101 : Programmation Impérative 1, niveau L3 (TP)
