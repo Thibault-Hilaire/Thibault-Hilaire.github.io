@@ -11,7 +11,7 @@ I did my scholarship at the [ENS Paris-Saclay](https://ens-paris-saclay.fr/) in 
 # Publications
 
 - A State-of-the-Art Karp-Miller Algorithm certified in Coq [doi: 10.1007/978-3-031-57246-3_21](https://doi.org/10.1007/978-3-031-57246-3_21) (TACAS 2024)
-- On the Reachability Problem for Two-Dimensional Branching VASS (accepted at MFCS 2025)
+- [On the Reachability Problem for Two-Dimensional Branching VASS](https://arxiv.org/abs/2506.22561) (accepted at MFCS 2025)
 
 # Talk
 
