@@ -59,7 +59,7 @@ At the [ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr)
 
 # Contact
 
-- Mail: firstname.lastname@labri.fr
+- Mail: firstname.lastname@hotmail.fr
 - ORCID : 0009-0008-7324-8767
 - IdHal : thibault-luc-hilaire
 - Address : Office 257, LaBRI  
